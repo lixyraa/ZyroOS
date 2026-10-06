@@ -1,0 +1,14 @@
+{
+  "name": "zyro-os",
+  "version": "1.3.0",
+  "description": "Zyro OS - a lightweight terminal OS and pm2-style process manager for single-script panels",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": ["terminal", "pm2", "pterodactyl", "process-manager"],
+  "license": "MIT"
+}
